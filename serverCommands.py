@@ -3,7 +3,7 @@ import sys
 import socket
 import select
 
-HOST = "192.168.87.102" 
+HOST = "***.***.***.***" 
 PORT = 9999
 
 #Get the type of socket ready
