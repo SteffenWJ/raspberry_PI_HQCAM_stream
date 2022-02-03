@@ -73,7 +73,7 @@ KEYr = 114
 KEYA = 65
 KEYa = 97
 
-serverIP = "192.168.87.102" #Could be 192.168.87.101 for the real machine
+serverIP = "***.***.***.***" 
 portNum = 8000
 
 frameGraber = threading.Thread(target=cameraStreamGet, args=(serverIP,portNum),daemon=True)
