@@ -7,8 +7,8 @@ import picamera
 #Fra https://picamera.readthedocs.io/en/release-1.13/recipes2.html#rapid-capture-and-streaming
 
 
-serverIP = '***.***.***.***' #IP4 for my raspberry 192.168.87.106
-portNum = **** #Need to define the port we commonicate through
+serverIP = '***.***.***.***' 
+portNum = **** 
 
 
 client_socket = socket.socket()
