@@ -21,12 +21,19 @@ Lense is a 6mm Videangle
 
 TODO:
 Add arguments for adding IP's to make is simpler
+
 Projection of points for testing the accuracy of 
+
 Worker, coordinator communications.
+
 Error handling.
+
 Optimize code for more frames per second.
+
 GUI development
 
 Longterm TODO:
+
 Add segmentation network for different object detection
+
 Complete headless Linux deployment for raspberry PI without PI os.
